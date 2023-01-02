@@ -4,4 +4,3 @@ This is a python program to build a strong password using python. This will impr
 
 
 
-image.png

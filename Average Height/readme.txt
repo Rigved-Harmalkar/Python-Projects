@@ -1,0 +1,1 @@
+This project helps you to find the average height of people by giving a list. 
